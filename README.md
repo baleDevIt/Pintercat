@@ -3,7 +3,7 @@
 
 # Pintercat [StudyProject]
 
-![Logo](screenshot\homepage.png)
+![Logo](https://github.com/baleDevIt/Pintercat/blob/main/screenshot/homepage.png)
 
 
 Applicazione sviluppata in python che dimostra l'utilizzo di 
