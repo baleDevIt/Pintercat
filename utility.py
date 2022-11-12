@@ -1,7 +1,8 @@
 from enum import Enum
 
-url_ricerca = "https://api.thecatapi.com/v1/images/search?"
+url_ricerca = "https://api.thecatapi.com/v1/images/search?has_breeds=1&"
 url_breeds = "https://api.thecatapi.com/v1/breeds"
+url_search_single_cat = "https://api.thecatapi.com/v1/images/"
 
 
 class SearchParameter(Enum):

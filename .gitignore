@@ -49,6 +49,7 @@ package-lock.json
 
 #Virtual Enviroment
 env
+venv
 
 #Other
 __pycache__
